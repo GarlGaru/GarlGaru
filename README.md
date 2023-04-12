@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GarlGaru
-- 👀 I’m interested in ... Comunication between Backend and frontend
+- 👀 I’m interested in ... Backend
 - 🌱 I’m currently learning ... Java, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
