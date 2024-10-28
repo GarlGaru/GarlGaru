@@ -5,7 +5,11 @@
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <!--   <img src="https://render.gitanimals.org/farms/{GarlGaru}" width="100%" height="200"/> -->
-  <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=622290312945968952" width="45%" height="100"/><img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=625257278716243694" width="45%" height="100"/>
+  <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=622290312945968952&contribution-view=false" width="100%" height="50"/>
+  <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=625257278716243694&contribution-view=false" width="100%" height="50"/>
+  <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=630641350049098001&contribution-view=false" width="100%" height="50"/>
+  <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=635022677833776647&contribution-view=false" width="100%" height="50"/>
+  <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=638526340204427724&contribution-view=false" width="100%" height="50"/>
 </a>
 </div>
 <div>
