@@ -2,10 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=dedede&animation=twinkling&fontAlign=34">
- <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34">
-</picture>
+
+ <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GarlGaru&theme=java-dark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" align="right" alt="GitHub Streak" /></a>
 
