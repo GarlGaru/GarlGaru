@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
 
 
- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34">
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:87f74a,100:e67efa&text=GarlGaru&descAlign=100&descAlignY=100&reversal=false&section=header&textBg=false&fontColor=028ccc&animation=twinkling&rotate=0&fontAlign=33">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GarlGaru&theme=java-dark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" align="right" alt="GitHub Streak" /></a>
 
@@ -27,7 +28,7 @@
 
 **DevOps**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><!-- <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">--><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 
 **Environment**
