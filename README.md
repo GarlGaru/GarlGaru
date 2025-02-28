@@ -6,7 +6,8 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:87f74a,100:e67efa&text=GarlGaru&descAlign=100&descAlignY=100&reversal=false&section=header&textBg=false&fontColor=028ccc&animation=twinkling&rotate=0&fontAlign=33">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GarlGaru&theme=java-dark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" align="right" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GarlGaru&theme=java-dark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" align="right" alt="GitHub Streak" /></a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarlGaru&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical" align="right" alt="Top Langs" /></a>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarlGaru&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" align=right /> -->
 
