@@ -4,7 +4,7 @@
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:87f74a,100:e67efa&text=GarlGaru&descAlign=100&descAlignY=100&reversal=false&section=header&textBg=false&fontColor=028ccc&animation=twinkling&rotate=0&fontAlign=33">
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:87f74a,100:e67efa&text=GarlGaru&descAlign=100&descAlignY=100&reversal=false&section=header&textBg=false&fontColor=028ccc&animation=twinkling&rotate=0&fontAlign=33"> -->
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarlGaru&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical" align="right" alt="Top Langs" /></a> -->
@@ -36,6 +36,8 @@ td, th {
     <td>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white">
     </td>
+<tr><td>　　　　</td>
+</tr>
 <tr>
     <td><strong>Tools</strong>
     </td>
