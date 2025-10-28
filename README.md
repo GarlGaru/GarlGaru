@@ -41,3 +41,5 @@
 
 <img src="https://render.gitanimals.org/lines/GarlGaru?pet-id=630641350049098001&contribution-view=false" width="100%" height="70"/>
 
+### blog open!
+<a href="https://garlgarus-blog.vercel.app/">Here</a>
