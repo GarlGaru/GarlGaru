@@ -1,10 +1,4 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=dedede&animation=twinkling&fontAlign=34">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
-
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00aeff,100:e67efa&text=GarlGaru&section=header&descAlign=50&reversal=false&textBg=false&fontColor=383838&animation=twinkling&fontAlign=34"> -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:87f74a,100:e67efa&text=GarlGaru&descAlign=100&descAlignY=100&reversal=false&section=header&textBg=false&fontColor=028ccc&animation=twinkling&rotate=0&fontAlign=33">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=700&center=true&vCenter=true&width=800&height=150&lines=Stay+Curious;Keep+Building;GarlGaru)](https://git.io/typing-svg)
 
 
 
@@ -20,7 +14,8 @@
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+
 
 
 **DataBase**
@@ -43,6 +38,10 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 
+<br>
+<br>
+<br>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/GarlGaru"/>
 </a>
@@ -53,6 +52,10 @@
 [//]: # (### blog open!)
 
 [//]: # (<a href="https://garlgarus-blog.vercel.app/">Here</a>)
+
+<br>
+<br>
+<br>
 
 ## Current Working 
 
